@@ -1,3 +1,7 @@
 Q1: Why might we consider using git?
 
 Answer: Git is great for collaboration, especially when working on large projects. Git helps you keep track of changes to your files over time, so it's also easy to access older versions of your code. Additionally, with the branch feature, it's easy for everyone to work on developing different features/sections and then bring them together.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to the healthcare field. Specfically, data science can be used to predict patient outcomes by analyzing patient records, treatment histories, and genetic information. It can help in optimizing resources, reducing costs, and enhancing the  efficiency of healthcare systems.
