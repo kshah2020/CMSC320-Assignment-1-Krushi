@@ -5,3 +5,7 @@ Answer: Git is great for collaboration, especially when working on large project
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to the healthcare field. Specfically, data science can be used to predict patient outcomes by analyzing patient records, treatment histories, and genetic information. It can help in optimizing resources, reducing costs, and enhancing the  efficiency of healthcare systems.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I'm hoping to improve my skills with Python, in the sense of a analyzing data and using Pandas. 
