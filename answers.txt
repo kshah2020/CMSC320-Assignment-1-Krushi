@@ -1,0 +1,3 @@
+Q1: Why might we consider using git?
+
+Answer: Git is great for collaboration, especially when working on large projects. Git helps you keep track of changes to your files over time, so it's also easy to access older versions of your code. Additionally, with the branch feature, it's easy for everyone to work on developing different features/sections and then bring them together.
